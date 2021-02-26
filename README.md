@@ -31,6 +31,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 
 * [What is socio-technical architecture?](https://www.oleandreasrydland.com/socio-technical-architecture/) - Ole Andreas Rydland - 2021-02-25 - EN - an exploration of the origins of the term 'socio-technical' (including coal mining in 1950s England) and how the Team Topologies book brings new perspectives for organizations 
 * [Team Topologies: ein neuer Zugang zur optimalen Organisation von Software-Entwicklungs-Teams](https://teamtopologies.com/news/2020/10/26/team-topologies-ein-neuer-zugang-zur-optimalen-organisation-von-software-entwicklungs-teams) - Robert Ruzitschka - 2020-11-03 - DE - "Matthew Skelton und Manuel Pais haben mit ihrem Buch “Team Topologies” eine ausgezeichnete Beschreibung der Herausforderungen moderner Enterprise IT vorgelegt und bieten ein Modell an, das in vielen Fällen als Vorlage für eine effiziente Organisation herangezogen werden kann."
+* [How to build a platform team now! the secrets to successful engineering!](https://medium.com/faun/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8) - Kenichi Shibata - 2018-09-18 - Scaling teams are hard. A platform team done right can help ease the hardships.
 
 ## Book reviews and book summaries
 
