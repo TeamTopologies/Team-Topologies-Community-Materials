@@ -12,7 +12,7 @@ Some of the materials here may be selected for the [Community](https://teamtopol
 
 To suggest an update to this resource, please send a Pull Request (PR) with suitable changes. PRs should contain well-formatted Markdown in this format:
 
-> {Material-Title-hyperlinked-to-resource} - {names of contributors} - {date in `yyyy-MM-dd` format (or `ongoing` for evolving materials)} - { two-letter language code like `EN`, `DE`, etc.} - {short description of the material and why it is useful}
+> {Material-Title-hyperlinked-to-resource} - {names of contributors} - {date in `yyyy-MM-dd` format (or `ongoing` for evolving materials)} - {two-letter language code like `EN`, `DE`, etc.} - {short description of the material and why it is useful}
 
 Example:
 
@@ -22,7 +22,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 
 ## Notes
 
-1. use US English spellings ('organization', not 'organisation', etc.).
+1. Use US English spellings ('organization', not 'organisation', etc.).
 2. If a material is under ongoing evolution, use `ongoing` as the date
 
 # Community materials
@@ -30,7 +30,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 ## Articles
 
 * [What is socio-technical architecture?](https://www.oleandreasrydland.com/socio-technical-architecture/) - Ole Andreas Rydland - 2021-02-25 - EN - an exploration of the origins of the term 'socio-technical' (including coal mining in 1950s England) and how the Team Topologies book brings new perspectives for organizations 
-* 
+* [Team Topologies: ein neuer Zugang zur optimalen Organisation von Software-Entwicklungs-Teams](https://teamtopologies.com/news/2020/10/26/team-topologies-ein-neuer-zugang-zur-optimalen-organisation-von-software-entwicklungs-teams) - Robert Ruzitschka - 2020-11-03 - DE - "Matthew Skelton und Manuel Pais haben mit ihrem Buch “Team Topologies” eine ausgezeichnete Beschreibung der Herausforderungen moderner Enterprise IT vorgelegt und bieten ein Modell an, das in vielen Fällen als Vorlage für eine effiziente Organisation herangezogen werden kann."
 
 ## Book reviews and book summaries
 
@@ -55,7 +55,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 
 ## Templates
 
-* [Team Shape Templates](https://github.com/TeamTopologies/Team-Shape-Templates) - Team Topologies and contributors - ongoing - templates for popular drawing and diagramming tools to represent the team types and team interaction modes in Team Topologies.
+* [Team Shape Templates](https://github.com/TeamTopologies/Team-Shape-Templates) - Team Topologies and contributors - ongoing - EN - templates for popular drawing and diagramming tools to represent the team types and team interaction modes in Team Topologies.
 * 
 
 ## Tools
