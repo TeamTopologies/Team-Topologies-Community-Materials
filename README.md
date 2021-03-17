@@ -47,7 +47,8 @@ Where should the changes go? Choose a subsection that best represents the type o
 ## Diagrams and images
 
 * [Team Topologies quick reference card (QRC)](https://hennyportman.files.wordpress.com/2020/05/qrc-team-topologies-200525-v1.0-1.pdf) - Henny Portman - 2020-05-25 - EN - a PDF with some key ideas visualized and summarized - latest at https://hennyportman.wordpress.com/2020/05/25/review-team-topologies/
-* 
+* [Spanish Translation of the Team Topologies quick reference card (QRC)] (https://www.linkedin.com/posts/emiliano-sutil-77a2091b_teamtopologies-agilerevolution-agile-activity-6777967911261884417-BVl1) - Emiliano Sutil - 2021-03-17 - ES - Spanish Translation of the quick refeference card of with some key ideas and concepts extracted from the Team Topologies book.
+
 
 ## Facilitation guides
 
