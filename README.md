@@ -35,6 +35,8 @@ Where should the changes go? Choose a subsection that best represents the type o
 * [Team Topologies: ein neuer Zugang zur optimalen Organisation von Software-Entwicklungs-Teams](https://teamtopologies.com/news/2020/10/26/team-topologies-ein-neuer-zugang-zur-optimalen-organisation-von-software-entwicklungs-teams) - Robert Ruzitschka - 2020-11-03 - DE - "Matthew Skelton und Manuel Pais haben mit ihrem Buch “Team Topologies” eine ausgezeichnete Beschreibung der Herausforderungen moderner Enterprise IT vorgelegt und bieten ein Modell an, das in vielen Fällen als Vorlage für eine effiziente Organisation herangezogen werden kann."
 * [How to build a platform team now! the secrets to successful engineering!](https://medium.com/faun/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8) - Kenichi Shibata - 2018-09-18 - Scaling teams are hard. A platform team done right can help ease the hardships.
 
+* [Team Topologies for Data Engineering Teams!](https://pedrogomesmota.medium.com/team-topologies-for-data-engineering-teams-a15c5eb3849c) - Pedro Gomes Mota - 2021-03-13 - Improve time to Analytics and Data Release Quality using Team Toplogies for Data Engineering Teams.
+
 ## Book reviews and book summaries
 
 * [Review: Team Topologies](https://hennyportman.wordpress.com/2020/05/25/review-team-topologies/) - Henny Portman - 2020-05-25 - EN - "The book Team Topologies ... will help you to design a team organization structure that helps you to become more agile."
