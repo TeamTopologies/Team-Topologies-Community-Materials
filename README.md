@@ -66,3 +66,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 ## Tools
 
 * 
+
+## Examples & Case Studies
+
+* [DataModels-as-a-Service TVP Example](https://github.com/sbalnojan/TVP-example) - Sven Balnojan - ongoing - EN - an example of a TVP using just a wiki page for a data team which provides "DataModels-as-a-Service".
