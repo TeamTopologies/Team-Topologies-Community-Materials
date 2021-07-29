@@ -29,9 +29,13 @@ Where should the changes go? Choose a subsection that best represents the type o
 
 ## Articles
 
+
+* [Your Team Structures Ain't Working. Let's Apply Team Topologies](https://betterprogramming.pub/your-team-structures-aint-working-let-s-apply-team-topologies-470e8d4f7fe5?gi=b4b2f461699f) - Ryan Dawson - 2021-02-08 - EN - Explanation of how Team Topologies gives us tools to evaluate and adapt team structures to our situation. 
 * [What is socio-technical architecture?](https://www.oleandreasrydland.com/socio-technical-architecture/) - Ole Andreas Rydland - 2021-02-25 - EN - an exploration of the origins of the term 'socio-technical' (including coal mining in 1950s England) and how the Team Topologies book brings new perspectives for organizations 
 * [Team Topologies: ein neuer Zugang zur optimalen Organisation von Software-Entwicklungs-Teams](https://teamtopologies.com/news/2020/10/26/team-topologies-ein-neuer-zugang-zur-optimalen-organisation-von-software-entwicklungs-teams) - Robert Ruzitschka - 2020-11-03 - DE - "Matthew Skelton und Manuel Pais haben mit ihrem Buch “Team Topologies” eine ausgezeichnete Beschreibung der Herausforderungen moderner Enterprise IT vorgelegt und bieten ein Modell an, das in vielen Fällen als Vorlage für eine effiziente Organisation herangezogen werden kann."
-* [How to build a platform team now! the secrets to successful engineering!](https://medium.com/faun/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8) - Kenichi Shibata - 2018-09-18 - Scaling teams are hard. A platform team done right can help ease the hardships.
+* [How to build a platform team now! the secrets to successful engineering](https://medium.com/faun/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8) - Kenichi Shibata - 2018-09-18 - Scaling teams are hard. A platform team done right can help ease the hardships.
+* [Team Topologies for Data Engineering Teams](https://pedrogomesmota.medium.com/team-topologies-for-data-engineering-teams-a15c5eb3849c) - Pedro Gomes Mota - 2021-03-13 - Improve time to Analytics and Data Release Quality using Team Topologies for Data Engineering Teams.
+* [Team topologies in adaptive organisations](https://t2informatik.de/en/blog/processes-methods/team-topologies-in-adaptive-organisations/?noredirect=en-US) - Dierk Soellner, Luca Ingianni, Felix Kronlage-Dammers - 2021-03-22 - EN - Overview of concepts associated and transported by Team Topologies.
 
 ## Book reviews and book summaries
 
@@ -48,6 +52,8 @@ Where should the changes go? Choose a subsection that best represents the type o
 
 * [Team Topologies quick reference card (QRC)](https://hennyportman.files.wordpress.com/2020/05/qrc-team-topologies-200525-v1.0-1.pdf) - Henny Portman - 2020-05-25 - EN - a PDF with some key ideas visualized and summarized - latest at https://hennyportman.wordpress.com/2020/05/25/review-team-topologies/
 * [Spanish Translation of the Team Topologies quick reference card (QRC)] (https://www.linkedin.com/posts/emiliano-sutil-77a2091b_teamtopologies-agilerevolution-agile-activity-6777967911261884417-BVl1) - Emiliano Sutil - 2021-03-17 - ES - Spanish Translation of the quick refeference card of with some key ideas and concepts extracted from the Team Topologies book.
+* [Japanese Translation of the Team Topologies quick reference card (QRC)](https://scrapbox.io/iki-iki/QRC_Team_Topologies-ja) - Shintaro Kakutani - 2021-03-17 - JA - Japanese Translation of the QRC by Henny Portman.
+* [Book infographic](https://bit.ly/3gEAK1q) - [Yoan Thirion](https://www.linkedin.com/in/yoan-thirion) - 2021-04-23 - EN - an infographic of the book representing the major concepts from Yoan's Point of View - latest at https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/resources/book-notes/team-topologies
 
 
 ## Facilitation guides
@@ -63,3 +69,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 ## Tools
 
 * 
+
+## Examples & Case Studies
+
+* [DataModels-as-a-Service TVP Example](https://github.com/sbalnojan/TVP-example) - Sven Balnojan - ongoing - EN - an example of a TVP using just a wiki page for a data team which provides "DataModels-as-a-Service".
