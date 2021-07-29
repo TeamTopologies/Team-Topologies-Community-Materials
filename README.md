@@ -51,7 +51,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 ## Diagrams and images
 
 * [Team Topologies quick reference card (QRC)](https://hennyportman.files.wordpress.com/2020/05/qrc-team-topologies-200525-v1.0-1.pdf) - Henny Portman - 2020-05-25 - EN - a PDF with some key ideas visualized and summarized - latest at https://hennyportman.wordpress.com/2020/05/25/review-team-topologies/
-* [Spanish Translation of the Team Topologies quick reference card (QRC)] (https://www.linkedin.com/posts/emiliano-sutil-77a2091b_teamtopologies-agilerevolution-agile-activity-6777967911261884417-BVl1) - Emiliano Sutil - 2021-03-17 - ES - Spanish Translation of the quick refeference card of with some key ideas and concepts extracted from the Team Topologies book.
+* [Spanish Translation of the Team Topologies quick reference card (QRC)](https://www.linkedin.com/posts/emiliano-sutil-77a2091b_teamtopologies-agilerevolution-agile-activity-6777967911261884417-BVl1) - Emiliano Sutil - 2021-03-17 - ES - Spanish Translation of the quick refeference card of with some key ideas and concepts extracted from the Team Topologies book.
 * [Japanese Translation of the Team Topologies quick reference card (QRC)](https://scrapbox.io/iki-iki/QRC_Team_Topologies-ja) - Shintaro Kakutani - 2021-03-17 - JA - Japanese Translation of the QRC by Henny Portman.
 * [Book infographic](https://bit.ly/3gEAK1q) - [Yoan Thirion](https://www.linkedin.com/in/yoan-thirion) - 2021-04-23 - EN - an infographic of the book representing the major concepts from Yoan's Point of View - latest at https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/resources/book-notes/team-topologies
 
