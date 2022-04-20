@@ -1,0 +1,25 @@
+name: MarkdownLinter
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  MarkdownLinter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+
+      - name: Install Linter
+        run: | 
+          gem install mdl
+      
+      - name: Run Linter
+        run: |
+          mdl -s mdl_style.rb README.md
+
