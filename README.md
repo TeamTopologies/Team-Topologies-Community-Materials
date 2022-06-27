@@ -72,3 +72,4 @@ Where should the changes go? Choose a subsection that best represents the type o
 ### Examples & Case Studies
 
 * [DataModels-as-a-Service TVP Example](https://github.com/sbalnojan/TVP-example) - Sven Balnojan - ongoing - EN - an example of a TVP using just a wiki page for a data team which provides "DataModels-as-a-Service".
+* [Implementing a team topology](https://4lex.nz/posts/implementing-a-team-topology/) - Alex Corkin - 2021-02-24 - EN - Case study on applying team topologies to a non-tech-at-core business in a New Zealand context
