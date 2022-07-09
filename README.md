@@ -44,6 +44,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 * [Review: Team Topologies](https://hennyportman.wordpress.com/2020/05/25/review-team-topologies/) - Henny Portman - 2020-05-25 - EN - "The book Team Topologies ... will help you to design a team organization structure that helps you to become more agile."
 * [Book Summary: Team Topologies](https://www.tobysinclair.com/post/book-summary-team-topologies-organizing-business-and-technology-teams-for-fast-flow) - Toby Sinclair - 2020-09-27 - EN - "the team topologies approach advocates for organisation design that optimises for the flow of change and feedback from running systems."
 * [Book notes: Team Topologies](https://danlebrero.com/2021/01/20/team-topologies-summary/) - Dan Lebrero - 2021-01-20 - EN - "this book is like learning about Conway’s law for the first time, but on steroids. Really enjoyed it."
+* [Remote Team Interactions Workbook review](https://runvs.io/News/924) - Simon Weis - 2022-07-09 - EN - "I was immediately hooked on page one."
 
 ### Canvases
 
