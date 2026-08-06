@@ -37,6 +37,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 * [How to build a platform team now! the secrets to successful engineering](https://medium.com/faun/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8) - Kenichi Shibata - 2018-09-18 - Scaling teams are hard. A platform team done right can help ease the hardships.
 * [Team Topologies for Data Engineering Teams](https://pedrogomesmota.medium.com/team-topologies-for-data-engineering-teams-a15c5eb3849c) - Pedro Gomes Mota - 2021-03-13 - Improve time to Analytics and Data Release Quality using Team Topologies for Data Engineering Teams.
 * [Team topologies in adaptive organisations](https://t2informatik.de/en/blog/processes-methods/team-topologies-in-adaptive-organisations/) - Dierk Soellner, Luca Ingianni, Felix Kronlage-Dammers - 2021-03-22 - EN - Overview of concepts associated and transported by Team Topologies.
+* [ARCH OS: Adaptive Rhythms of Capacity and Horizons](https://github.com/orgarchos/arch-os) - Dolphy Fernandes - ongoing - EN - a leadership operating system extending Team Topologies with cadence design, capacity gating, and horizon sequencing for organizations navigating the AI era.
 
 ### Book reviews and book summaries
 
