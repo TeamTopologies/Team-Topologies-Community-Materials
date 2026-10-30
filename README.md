@@ -70,7 +70,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 
 ### Tools
 
-*
+* [Squado](https://squado.io) - Pedro Dropa - ongoing - EN - a live canvas for mapping teams and the people allocated to them, surfacing split allocations, open roles and overloaded people alongside cost and goals per team; useful for making team boundaries and team load visible when discussing a topology with stakeholders. A demo organisation opens without signup at https://app.squado.io/demo
 
 ### Examples & Case Studies
 
